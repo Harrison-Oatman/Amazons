@@ -1,1 +1,1 @@
-# Viking-Chess
+# Amazons
