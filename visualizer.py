@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 import matplotlib.animation as animation
 import numpy as np
-import time
+
 
 n = 4
 y = np.linspace(0,n,200,False)
